@@ -2,7 +2,7 @@
 <xs:schema xmlns:app="http://schemas.android.com/apk/res-auto" attributeFormDefault="qualified" targetNamespace="http://schemas.android.com/apk/res-auto" xmlns:xs="http://www.w3.org/2001/XMLSchema">
   <xs:annotation>
     <xs:documentation>v26</xs:documentation>
-    <xs:documentation>20/07/2018 6:33:38 PM</xs:documentation>
+    <xs:documentation>22/07/2018 8:37:25 PM</xs:documentation>
   </xs:annotation>
   <xs:attribute name="allowStacking">
     <xs:annotation>
@@ -152,7 +152,6 @@
             <xs:enumeration value="@drawable/abc_textfield_search_default_mtrl_alpha" />
             <xs:enumeration value="@drawable/abc_textfield_search_material" />
             <xs:enumeration value="@drawable/abc_vector_test" />
-            <xs:enumeration value="@drawable/myimage" />
             <xs:enumeration value="@drawable/notification_action_background" />
             <xs:enumeration value="@drawable/notification_bg" />
             <xs:enumeration value="@drawable/notification_bg_low" />
@@ -742,7 +741,6 @@
             <xs:enumeration value="@drawable/abc_textfield_search_default_mtrl_alpha" />
             <xs:enumeration value="@drawable/abc_textfield_search_material" />
             <xs:enumeration value="@drawable/abc_vector_test" />
-            <xs:enumeration value="@drawable/myimage" />
             <xs:enumeration value="@drawable/notification_action_background" />
             <xs:enumeration value="@drawable/notification_bg" />
             <xs:enumeration value="@drawable/notification_bg_low" />
@@ -1261,7 +1259,6 @@
             <xs:enumeration value="@drawable/abc_textfield_search_default_mtrl_alpha" />
             <xs:enumeration value="@drawable/abc_textfield_search_material" />
             <xs:enumeration value="@drawable/abc_vector_test" />
-            <xs:enumeration value="@drawable/myimage" />
             <xs:enumeration value="@drawable/notification_action_background" />
             <xs:enumeration value="@drawable/notification_bg" />
             <xs:enumeration value="@drawable/notification_bg_low" />
@@ -1923,7 +1920,6 @@
             <xs:enumeration value="@drawable/abc_textfield_search_default_mtrl_alpha" />
             <xs:enumeration value="@drawable/abc_textfield_search_material" />
             <xs:enumeration value="@drawable/abc_vector_test" />
-            <xs:enumeration value="@drawable/myimage" />
             <xs:enumeration value="@drawable/notification_action_background" />
             <xs:enumeration value="@drawable/notification_bg" />
             <xs:enumeration value="@drawable/notification_bg_low" />
@@ -2593,7 +2589,6 @@
             <xs:enumeration value="@drawable/abc_textfield_search_default_mtrl_alpha" />
             <xs:enumeration value="@drawable/abc_textfield_search_material" />
             <xs:enumeration value="@drawable/abc_vector_test" />
-            <xs:enumeration value="@drawable/myimage" />
             <xs:enumeration value="@drawable/notification_action_background" />
             <xs:enumeration value="@drawable/notification_bg" />
             <xs:enumeration value="@drawable/notification_bg_low" />
@@ -3112,7 +3107,6 @@
             <xs:enumeration value="@drawable/abc_textfield_search_default_mtrl_alpha" />
             <xs:enumeration value="@drawable/abc_textfield_search_material" />
             <xs:enumeration value="@drawable/abc_vector_test" />
-            <xs:enumeration value="@drawable/myimage" />
             <xs:enumeration value="@drawable/notification_action_background" />
             <xs:enumeration value="@drawable/notification_bg" />
             <xs:enumeration value="@drawable/notification_bg_low" />
@@ -3744,7 +3738,6 @@
             <xs:enumeration value="@drawable/abc_textfield_search_default_mtrl_alpha" />
             <xs:enumeration value="@drawable/abc_textfield_search_material" />
             <xs:enumeration value="@drawable/abc_vector_test" />
-            <xs:enumeration value="@drawable/myimage" />
             <xs:enumeration value="@drawable/notification_action_background" />
             <xs:enumeration value="@drawable/notification_bg" />
             <xs:enumeration value="@drawable/notification_bg_low" />
@@ -4610,7 +4603,6 @@
             <xs:enumeration value="@drawable/abc_textfield_search_default_mtrl_alpha" />
             <xs:enumeration value="@drawable/abc_textfield_search_material" />
             <xs:enumeration value="@drawable/abc_vector_test" />
-            <xs:enumeration value="@drawable/myimage" />
             <xs:enumeration value="@drawable/notification_action_background" />
             <xs:enumeration value="@drawable/notification_bg" />
             <xs:enumeration value="@drawable/notification_bg_low" />
@@ -5141,7 +5133,6 @@
             <xs:enumeration value="@drawable/abc_textfield_search_default_mtrl_alpha" />
             <xs:enumeration value="@drawable/abc_textfield_search_material" />
             <xs:enumeration value="@drawable/abc_vector_test" />
-            <xs:enumeration value="@drawable/myimage" />
             <xs:enumeration value="@drawable/notification_action_background" />
             <xs:enumeration value="@drawable/notification_bg" />
             <xs:enumeration value="@drawable/notification_bg_low" />
@@ -5731,7 +5722,6 @@
             <xs:enumeration value="@drawable/abc_textfield_search_default_mtrl_alpha" />
             <xs:enumeration value="@drawable/abc_textfield_search_material" />
             <xs:enumeration value="@drawable/abc_vector_test" />
-            <xs:enumeration value="@drawable/myimage" />
             <xs:enumeration value="@drawable/notification_action_background" />
             <xs:enumeration value="@drawable/notification_bg" />
             <xs:enumeration value="@drawable/notification_bg_low" />
@@ -6250,7 +6240,6 @@
             <xs:enumeration value="@drawable/abc_textfield_search_default_mtrl_alpha" />
             <xs:enumeration value="@drawable/abc_textfield_search_material" />
             <xs:enumeration value="@drawable/abc_vector_test" />
-            <xs:enumeration value="@drawable/myimage" />
             <xs:enumeration value="@drawable/notification_action_background" />
             <xs:enumeration value="@drawable/notification_bg" />
             <xs:enumeration value="@drawable/notification_bg_low" />
@@ -6870,7 +6859,6 @@
             <xs:enumeration value="@drawable/abc_textfield_search_default_mtrl_alpha" />
             <xs:enumeration value="@drawable/abc_textfield_search_material" />
             <xs:enumeration value="@drawable/abc_vector_test" />
-            <xs:enumeration value="@drawable/myimage" />
             <xs:enumeration value="@drawable/notification_action_background" />
             <xs:enumeration value="@drawable/notification_bg" />
             <xs:enumeration value="@drawable/notification_bg_low" />
@@ -7401,7 +7389,6 @@
             <xs:enumeration value="@drawable/abc_textfield_search_default_mtrl_alpha" />
             <xs:enumeration value="@drawable/abc_textfield_search_material" />
             <xs:enumeration value="@drawable/abc_vector_test" />
-            <xs:enumeration value="@drawable/myimage" />
             <xs:enumeration value="@drawable/notification_action_background" />
             <xs:enumeration value="@drawable/notification_bg" />
             <xs:enumeration value="@drawable/notification_bg_low" />
@@ -8088,7 +8075,6 @@
             <xs:enumeration value="@drawable/abc_textfield_search_default_mtrl_alpha" />
             <xs:enumeration value="@drawable/abc_textfield_search_material" />
             <xs:enumeration value="@drawable/abc_vector_test" />
-            <xs:enumeration value="@drawable/myimage" />
             <xs:enumeration value="@drawable/notification_action_background" />
             <xs:enumeration value="@drawable/notification_bg" />
             <xs:enumeration value="@drawable/notification_bg_low" />
@@ -8909,7 +8895,6 @@
             <xs:enumeration value="@drawable/abc_textfield_search_default_mtrl_alpha" />
             <xs:enumeration value="@drawable/abc_textfield_search_material" />
             <xs:enumeration value="@drawable/abc_vector_test" />
-            <xs:enumeration value="@drawable/myimage" />
             <xs:enumeration value="@drawable/notification_action_background" />
             <xs:enumeration value="@drawable/notification_bg" />
             <xs:enumeration value="@drawable/notification_bg_low" />
@@ -10684,7 +10669,6 @@
             <xs:enumeration value="@drawable/abc_textfield_search_default_mtrl_alpha" />
             <xs:enumeration value="@drawable/abc_textfield_search_material" />
             <xs:enumeration value="@drawable/abc_vector_test" />
-            <xs:enumeration value="@drawable/myimage" />
             <xs:enumeration value="@drawable/notification_action_background" />
             <xs:enumeration value="@drawable/notification_bg" />
             <xs:enumeration value="@drawable/notification_bg_low" />
@@ -11371,7 +11355,6 @@
             <xs:enumeration value="@drawable/abc_textfield_search_default_mtrl_alpha" />
             <xs:enumeration value="@drawable/abc_textfield_search_material" />
             <xs:enumeration value="@drawable/abc_vector_test" />
-            <xs:enumeration value="@drawable/myimage" />
             <xs:enumeration value="@drawable/notification_action_background" />
             <xs:enumeration value="@drawable/notification_bg" />
             <xs:enumeration value="@drawable/notification_bg_low" />
@@ -12077,7 +12060,6 @@
             <xs:enumeration value="@drawable/abc_textfield_search_default_mtrl_alpha" />
             <xs:enumeration value="@drawable/abc_textfield_search_material" />
             <xs:enumeration value="@drawable/abc_vector_test" />
-            <xs:enumeration value="@drawable/myimage" />
             <xs:enumeration value="@drawable/notification_action_background" />
             <xs:enumeration value="@drawable/notification_bg" />
             <xs:enumeration value="@drawable/notification_bg_low" />
