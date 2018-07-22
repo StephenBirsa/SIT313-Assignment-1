@@ -1746,9 +1746,6 @@ namespace Week2
 			// aapt resource value: 0x7F090053
 			public const int abc_vector_test = 2131296339;
 			
-			// aapt resource value: 0x7F010002
-			public const int myImage = 2130771970;
-			
 			// aapt resource value: 0x7F090001
 			public const int notification_action_background = 2131296257;
 			
@@ -1875,6 +1872,9 @@ namespace Week2
 			
 			// aapt resource value: 0x7F0C0007
 			public const int blocking = 2131492871;
+			
+			// aapt resource value: 0x7F010003
+			public const int button1 = 2130771971;
 			
 			// aapt resource value: 0x7F0C0018
 			public const int buttonPanel = 2131492888;
@@ -2095,6 +2095,9 @@ namespace Week2
 			// aapt resource value: 0x7F0C005C
 			public const int topPanel = 2131492956;
 			
+			// aapt resource value: 0x7F010002
+			public const int txtName = 2130771970;
+			
 			// aapt resource value: 0x7F0C005D
 			public const int uniform = 2131492957;
 			
@@ -2224,7 +2227,13 @@ namespace Week2
 			public const int abc_select_dialog_material = 2131689498;
 			
 			// aapt resource value: 0x7F020002
-			public const int Main = 2130837506;
+			public const int ListLayout = 2130837506;
+			
+			// aapt resource value: 0x7F020003
+			public const int Main = 2130837507;
+			
+			// aapt resource value: 0x7F020004
+			public const int Notepad = 2130837508;
 			
 			// aapt resource value: 0x7F0F0001
 			public const int notification_action = 2131689473;
