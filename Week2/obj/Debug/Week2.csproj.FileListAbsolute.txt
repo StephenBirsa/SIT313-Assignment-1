@@ -135,7 +135,6 @@ D:\Documents\Visual Studio 2017\Projects\SIT313 Assignment 1\SIT313-Assignment-1
 D:\Documents\Visual Studio 2017\Projects\SIT313 Assignment 1\SIT313-Assignment-1\Week2\obj\Debug\R.txt
 D:\Documents\Visual Studio 2017\Projects\SIT313 Assignment 1\SIT313-Assignment-1\Week2\obj\Debug\uploadflags.txt
 D:\Documents\Visual Studio 2017\Projects\SIT313 Assignment 1\SIT313-Assignment-1\Week2\obj\Debug\res\layout\listlayout.xml
-D:\Documents\Visual Studio 2017\Projects\SIT313 Assignment 1\SIT313-Assignment-1\Week2\bin\Debug\Week2.dll
 D:\Documents\Visual Studio 2017\Projects\SIT313 Assignment 1\SIT313-Assignment-1\Week2\bin\Debug\Mono.Android.pdb
 D:\Documents\Visual Studio 2017\Projects\SIT313 Assignment 1\SIT313-Assignment-1\Week2\bin\Debug\mscorlib.pdb
 D:\Documents\Visual Studio 2017\Projects\SIT313 Assignment 1\SIT313-Assignment-1\Week2\bin\Debug\System.Core.pdb
@@ -156,4 +155,9 @@ D:\Documents\Visual Studio 2017\Projects\SIT313 Assignment 1\SIT313-Assignment-1
 D:\Documents\Visual Studio 2017\Projects\SIT313 Assignment 1\SIT313-Assignment-1\Week2\obj\Debug\linksrc\System.Runtime.Serialization.pdb
 D:\Documents\Visual Studio 2017\Projects\SIT313 Assignment 1\SIT313-Assignment-1\Week2\obj\Debug\linksrc\System.ServiceModel.Internals.pdb
 D:\Documents\Visual Studio 2017\Projects\SIT313 Assignment 1\SIT313-Assignment-1\Week2\obj\Debug\linksrc\Mono.Security.pdb
+D:\Documents\Visual Studio 2017\Projects\SIT313 Assignment 1\SIT313-Assignment-1\Week2\obj\Debug\linksrc\Week2.dll.mdb
+D:\Documents\Visual Studio 2017\Projects\SIT313 Assignment 1\SIT313-Assignment-1\Week2\obj\Debug\Week2.csprojAssemblyReference.cache
+D:\Documents\Visual Studio 2017\Projects\SIT313 Assignment 1\SIT313-Assignment-1\Week2\bin\Debug\Week2.dll.mdb
+D:\Documents\Visual Studio 2017\Projects\SIT313 Assignment 1\SIT313-Assignment-1\Week2\obj\Debug\android\assets\Week2.dll.mdb
+D:\Documents\Visual Studio 2017\Projects\SIT313 Assignment 1\SIT313-Assignment-1\Week2\bin\Debug\Week2.dll
 D:\Documents\Visual Studio 2017\Projects\SIT313 Assignment 1\SIT313-Assignment-1\Week2\obj\Debug\linksrc\Week2.dll.mdb

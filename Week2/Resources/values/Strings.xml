@@ -3,6 +3,7 @@
     <string name="hello">Hello World, Click Me!</string>
     <string name="app_name">Assignment 1 Notepad App</string>
     <string name="new_note">New Note</string>
+    <string name="notes_list">Notes List</string>
     <string name="open_editor">Open Editor</string>
     <string name="leave_editor">Go Back</string>
     <string name="save_editor">Save Text</string>

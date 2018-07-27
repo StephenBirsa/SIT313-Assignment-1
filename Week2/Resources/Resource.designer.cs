@@ -1903,8 +1903,8 @@ namespace Week2
 			// aapt resource value: 0x7f0b0067
 			public const int button1 = 2131427431;
 			
-			// aapt resource value: 0x7f0b006a
-			public const int button2 = 2131427434;
+			// aapt resource value: 0x7f0b0068
+			public const int button2 = 2131427432;
 			
 			// aapt resource value: 0x7f0b006b
 			public const int button3 = 2131427435;
@@ -1942,8 +1942,8 @@ namespace Week2
 			// aapt resource value: 0x7f0b0012
 			public const int disableHome = 2131427346;
 			
-			// aapt resource value: 0x7f0b0069
-			public const int editText1 = 2131427433;
+			// aapt resource value: 0x7f0b006a
+			public const int editText1 = 2131427434;
 			
 			// aapt resource value: 0x7f0b0059
 			public const int edit_query = 2131427417;
@@ -2146,8 +2146,8 @@ namespace Week2
 			// aapt resource value: 0x7f0b0044
 			public const int textSpacerNoTitle = 2131427396;
 			
-			// aapt resource value: 0x7f0b0068
-			public const int textView1 = 2131427432;
+			// aapt resource value: 0x7f0b0069
+			public const int textView1 = 2131427433;
 			
 			// aapt resource value: 0x7f0b0077
 			public const int time = 2131427447;
@@ -2492,23 +2492,26 @@ namespace Week2
 			// aapt resource value: 0x7f060020
 			public const int app_name = 2131099680;
 			
-			// aapt resource value: 0x7f060025
-			public const int delete_editor = 2131099685;
+			// aapt resource value: 0x7f060026
+			public const int delete_editor = 2131099686;
 			
 			// aapt resource value: 0x7f06001f
 			public const int hello = 2131099679;
 			
-			// aapt resource value: 0x7f060023
-			public const int leave_editor = 2131099683;
+			// aapt resource value: 0x7f060024
+			public const int leave_editor = 2131099684;
 			
 			// aapt resource value: 0x7f060021
 			public const int new_note = 2131099681;
 			
 			// aapt resource value: 0x7f060022
-			public const int open_editor = 2131099682;
+			public const int notes_list = 2131099682;
 			
-			// aapt resource value: 0x7f060024
-			public const int save_editor = 2131099684;
+			// aapt resource value: 0x7f060023
+			public const int open_editor = 2131099683;
+			
+			// aapt resource value: 0x7f060025
+			public const int save_editor = 2131099685;
 			
 			// aapt resource value: 0x7f060011
 			public const int search_menu_title = 2131099665;
@@ -2516,11 +2519,11 @@ namespace Week2
 			// aapt resource value: 0x7f06001e
 			public const int status_bar_notification_info_overflow = 2131099678;
 			
-			// aapt resource value: 0x7f060027
-			public const int text_editor = 2131099687;
+			// aapt resource value: 0x7f060028
+			public const int text_editor = 2131099688;
 			
-			// aapt resource value: 0x7f060026
-			public const int title_editor = 2131099686;
+			// aapt resource value: 0x7f060027
+			public const int title_editor = 2131099687;
 			
 			static String()
 			{

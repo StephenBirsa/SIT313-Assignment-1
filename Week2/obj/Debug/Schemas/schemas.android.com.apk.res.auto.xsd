@@ -2,7 +2,7 @@
 <xs:schema xmlns:app="http://schemas.android.com/apk/res-auto" attributeFormDefault="qualified" targetNamespace="http://schemas.android.com/apk/res-auto" xmlns:xs="http://www.w3.org/2001/XMLSchema">
   <xs:annotation>
     <xs:documentation>v26</xs:documentation>
-    <xs:documentation>27/07/2018 12:43:35 PM</xs:documentation>
+    <xs:documentation>27/07/2018 2:39:45 PM</xs:documentation>
   </xs:annotation>
   <xs:attribute name="allowStacking">
     <xs:annotation>
@@ -621,6 +621,7 @@
             <xs:enumeration value="@string/hello" />
             <xs:enumeration value="@string/leave_editor" />
             <xs:enumeration value="@string/new_note" />
+            <xs:enumeration value="@string/notes_list" />
             <xs:enumeration value="@string/open_editor" />
             <xs:enumeration value="@string/save_editor" />
             <xs:enumeration value="@string/search_menu_title" />
@@ -1807,6 +1808,7 @@
             <xs:enumeration value="@string/hello" />
             <xs:enumeration value="@string/leave_editor" />
             <xs:enumeration value="@string/new_note" />
+            <xs:enumeration value="@string/notes_list" />
             <xs:enumeration value="@string/open_editor" />
             <xs:enumeration value="@string/save_editor" />
             <xs:enumeration value="@string/search_menu_title" />
@@ -3632,6 +3634,7 @@
             <xs:enumeration value="@string/hello" />
             <xs:enumeration value="@string/leave_editor" />
             <xs:enumeration value="@string/new_note" />
+            <xs:enumeration value="@string/notes_list" />
             <xs:enumeration value="@string/open_editor" />
             <xs:enumeration value="@string/save_editor" />
             <xs:enumeration value="@string/search_menu_title" />
@@ -4240,6 +4243,7 @@
             <xs:enumeration value="@string/hello" />
             <xs:enumeration value="@string/leave_editor" />
             <xs:enumeration value="@string/new_note" />
+            <xs:enumeration value="@string/notes_list" />
             <xs:enumeration value="@string/open_editor" />
             <xs:enumeration value="@string/save_editor" />
             <xs:enumeration value="@string/search_menu_title" />
@@ -4511,6 +4515,7 @@
             <xs:enumeration value="@string/hello" />
             <xs:enumeration value="@string/leave_editor" />
             <xs:enumeration value="@string/new_note" />
+            <xs:enumeration value="@string/notes_list" />
             <xs:enumeration value="@string/open_editor" />
             <xs:enumeration value="@string/save_editor" />
             <xs:enumeration value="@string/search_menu_title" />
@@ -5637,6 +5642,7 @@
             <xs:enumeration value="@string/hello" />
             <xs:enumeration value="@string/leave_editor" />
             <xs:enumeration value="@string/new_note" />
+            <xs:enumeration value="@string/notes_list" />
             <xs:enumeration value="@string/open_editor" />
             <xs:enumeration value="@string/save_editor" />
             <xs:enumeration value="@string/search_menu_title" />
