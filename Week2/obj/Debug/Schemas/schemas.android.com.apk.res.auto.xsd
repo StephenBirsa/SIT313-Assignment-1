@@ -2,7 +2,7 @@
 <xs:schema xmlns:app="http://schemas.android.com/apk/res-auto" attributeFormDefault="qualified" targetNamespace="http://schemas.android.com/apk/res-auto" xmlns:xs="http://www.w3.org/2001/XMLSchema">
   <xs:annotation>
     <xs:documentation>v26</xs:documentation>
-    <xs:documentation>23/07/2018 12:51:02 AM</xs:documentation>
+    <xs:documentation>27/07/2018 12:43:35 PM</xs:documentation>
   </xs:annotation>
   <xs:attribute name="allowStacking">
     <xs:annotation>
@@ -617,9 +617,16 @@
             <xs:enumeration value="@string/abc_shareactionprovider_share_with_application" />
             <xs:enumeration value="@string/abc_toolbar_collapse_description" />
             <xs:enumeration value="@string/app_name" />
+            <xs:enumeration value="@string/delete_editor" />
             <xs:enumeration value="@string/hello" />
+            <xs:enumeration value="@string/leave_editor" />
+            <xs:enumeration value="@string/new_note" />
+            <xs:enumeration value="@string/open_editor" />
+            <xs:enumeration value="@string/save_editor" />
             <xs:enumeration value="@string/search_menu_title" />
             <xs:enumeration value="@string/status_bar_notification_info_overflow" />
+            <xs:enumeration value="@string/text_editor" />
+            <xs:enumeration value="@string/title_editor" />
             <xs:enumeration value="@android:string/cancel" />
             <xs:enumeration value="@android:string/copy" />
             <xs:enumeration value="@android:string/copyUrl" />
@@ -1796,9 +1803,16 @@
             <xs:enumeration value="@string/abc_shareactionprovider_share_with_application" />
             <xs:enumeration value="@string/abc_toolbar_collapse_description" />
             <xs:enumeration value="@string/app_name" />
+            <xs:enumeration value="@string/delete_editor" />
             <xs:enumeration value="@string/hello" />
+            <xs:enumeration value="@string/leave_editor" />
+            <xs:enumeration value="@string/new_note" />
+            <xs:enumeration value="@string/open_editor" />
+            <xs:enumeration value="@string/save_editor" />
             <xs:enumeration value="@string/search_menu_title" />
             <xs:enumeration value="@string/status_bar_notification_info_overflow" />
+            <xs:enumeration value="@string/text_editor" />
+            <xs:enumeration value="@string/title_editor" />
             <xs:enumeration value="@android:string/cancel" />
             <xs:enumeration value="@android:string/copy" />
             <xs:enumeration value="@android:string/copyUrl" />
@@ -3614,9 +3628,16 @@
             <xs:enumeration value="@string/abc_shareactionprovider_share_with_application" />
             <xs:enumeration value="@string/abc_toolbar_collapse_description" />
             <xs:enumeration value="@string/app_name" />
+            <xs:enumeration value="@string/delete_editor" />
             <xs:enumeration value="@string/hello" />
+            <xs:enumeration value="@string/leave_editor" />
+            <xs:enumeration value="@string/new_note" />
+            <xs:enumeration value="@string/open_editor" />
+            <xs:enumeration value="@string/save_editor" />
             <xs:enumeration value="@string/search_menu_title" />
             <xs:enumeration value="@string/status_bar_notification_info_overflow" />
+            <xs:enumeration value="@string/text_editor" />
+            <xs:enumeration value="@string/title_editor" />
             <xs:enumeration value="@android:string/cancel" />
             <xs:enumeration value="@android:string/copy" />
             <xs:enumeration value="@android:string/copyUrl" />
@@ -4215,9 +4236,16 @@
             <xs:enumeration value="@string/abc_shareactionprovider_share_with_application" />
             <xs:enumeration value="@string/abc_toolbar_collapse_description" />
             <xs:enumeration value="@string/app_name" />
+            <xs:enumeration value="@string/delete_editor" />
             <xs:enumeration value="@string/hello" />
+            <xs:enumeration value="@string/leave_editor" />
+            <xs:enumeration value="@string/new_note" />
+            <xs:enumeration value="@string/open_editor" />
+            <xs:enumeration value="@string/save_editor" />
             <xs:enumeration value="@string/search_menu_title" />
             <xs:enumeration value="@string/status_bar_notification_info_overflow" />
+            <xs:enumeration value="@string/text_editor" />
+            <xs:enumeration value="@string/title_editor" />
             <xs:enumeration value="@android:string/cancel" />
             <xs:enumeration value="@android:string/copy" />
             <xs:enumeration value="@android:string/copyUrl" />
@@ -4479,9 +4507,16 @@
             <xs:enumeration value="@string/abc_shareactionprovider_share_with_application" />
             <xs:enumeration value="@string/abc_toolbar_collapse_description" />
             <xs:enumeration value="@string/app_name" />
+            <xs:enumeration value="@string/delete_editor" />
             <xs:enumeration value="@string/hello" />
+            <xs:enumeration value="@string/leave_editor" />
+            <xs:enumeration value="@string/new_note" />
+            <xs:enumeration value="@string/open_editor" />
+            <xs:enumeration value="@string/save_editor" />
             <xs:enumeration value="@string/search_menu_title" />
             <xs:enumeration value="@string/status_bar_notification_info_overflow" />
+            <xs:enumeration value="@string/text_editor" />
+            <xs:enumeration value="@string/title_editor" />
             <xs:enumeration value="@android:string/cancel" />
             <xs:enumeration value="@android:string/copy" />
             <xs:enumeration value="@android:string/copyUrl" />
@@ -5598,9 +5633,16 @@
             <xs:enumeration value="@string/abc_shareactionprovider_share_with_application" />
             <xs:enumeration value="@string/abc_toolbar_collapse_description" />
             <xs:enumeration value="@string/app_name" />
+            <xs:enumeration value="@string/delete_editor" />
             <xs:enumeration value="@string/hello" />
+            <xs:enumeration value="@string/leave_editor" />
+            <xs:enumeration value="@string/new_note" />
+            <xs:enumeration value="@string/open_editor" />
+            <xs:enumeration value="@string/save_editor" />
             <xs:enumeration value="@string/search_menu_title" />
             <xs:enumeration value="@string/status_bar_notification_info_overflow" />
+            <xs:enumeration value="@string/text_editor" />
+            <xs:enumeration value="@string/title_editor" />
             <xs:enumeration value="@android:string/cancel" />
             <xs:enumeration value="@android:string/copy" />
             <xs:enumeration value="@android:string/copyUrl" />

@@ -12,7 +12,7 @@
         android:layout_height="wrap_content"
         android:id="@+id/txtName" />
     <Button
-        android:text="Button"
+        android:text="@string/open_editor"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_below="@id/txtName"

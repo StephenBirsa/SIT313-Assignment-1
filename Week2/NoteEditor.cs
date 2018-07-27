@@ -19,6 +19,13 @@ namespace Week2
         {
             base.OnCreate(savedInstanceState);
             SetContentView(Resource.Layout.Notepad);
+
+            Button button1 = FindViewById<Button>(Resource.Id.button1);
+            button1.Click += delegate
+            {
+                Intent intent = new Intent(this, typeof(MainActivity));
+                this.StartActivity(intent);
+            };
         }
     }
 }

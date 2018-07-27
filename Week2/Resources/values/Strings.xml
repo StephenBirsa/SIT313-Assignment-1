@@ -2,4 +2,17 @@
 <resources>
     <string name="hello">Hello World, Click Me!</string>
     <string name="app_name">Assignment 1 Notepad App</string>
+    <string name="new_note">New Note</string>
+    <string name="open_editor">Open Editor</string>
+    <string name="leave_editor">Go Back</string>
+    <string name="save_editor">Save Text</string>
+    <string name="delete_editor">Delete</string>
+    <string name="title_editor">Default Title</string>
+    <string name="text_editor">Lorem ipsum dolor sit amet, consectetur adipiscing elit
+    Maecenas ut suscipit justo. Morbi sit amet tellus eu mi vehicula tincidunt ut elementum odio.
+    Cras vehicula orci nec nunc viverra, vitae imperdiet velit fermentum. Interdum et malesuada fames ac ante ipsum primis in faucibus.
+    In in turpis iaculis, tincidunt purus sit amet, cursus diam. Integer pretium volutpat ex sit amet aliquam.
+    Ut congue viverra nibh. Nullam vel tincidunt quam. Praesent imperdiet, odio at dictum commodo, libero nulla egestas felis,
+    vel auctor massa mi pellentesque leo. Nullam ipsum purus, blandit id orci et, ultrices imperdiet mauris.
+    Mauris sagittis ligula non suscipit pellentesque. Nam vitae malesuada ligula, eget mattis enim.</string>
 </resources>

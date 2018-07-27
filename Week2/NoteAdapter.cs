@@ -57,9 +57,11 @@ namespace Week2
             }
             public void OnClick(View view)
             {
-                string name = (string)view.Tag;
-                string text = string.Format("{0} Button Click.", name);
-                Toast.MakeText(this.activity, text, ToastLength.Short).Show();
+                //string name = (string)view.Tag;
+                //string text = string.Format("{0} Button Click.", name);
+                //Toast.MakeText(this.activity, text, ToastLength.Short).Show();
+                Intent intent = new Intent(this.activity, typeof(NoteEditor));
+                this.activity.StartActivity(intent);
             }
         }
     }
