@@ -43,9 +43,9 @@ namespace Week2
             string str = this.data[position];
             string name = str;
             view.FindViewById<TextView>(Resource.Id.txtName).Text = name;
-            Button button1 = view.FindViewById<Button>(Resource.Id.button1);
-            button1.Tag = name;
-            button1.SetOnClickListener(new ButtonClickListener(this.activity));
+            //Button button1 = view.FindViewById<Button>(Resource.Id.button1);
+            //button1.Tag = name;
+            //button1.SetOnClickListener(new ButtonClickListener(this.activity));
             return view;
         }
         private class ButtonClickListener : Java.Lang.Object, View.IOnClickListener
