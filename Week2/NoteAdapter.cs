@@ -14,8 +14,8 @@ namespace Week2
 {
     public class NoteAdapter : BaseAdapter<String>
     {
-        private Activity activity;
-        private List<String> data;
+        public Activity activity;
+        public List<String> data;
         public NoteAdapter(Activity activity, List<String> data)
         {
             this.activity = activity;
@@ -43,26 +43,7 @@ namespace Week2
             string str = this.data[position];
             string name = str;
             view.FindViewById<TextView>(Resource.Id.txtName).Text = name;
-            //Button button1 = view.FindViewById<Button>(Resource.Id.button1);
-            //button1.Tag = name;
-            //button1.SetOnClickListener(new ButtonClickListener(this.activity));
             return view;
-        }
-        private class ButtonClickListener : Java.Lang.Object, View.IOnClickListener
-        {
-            private Activity activity;
-            public ButtonClickListener(Activity activity)
-            {
-                this.activity = activity;
-            }
-            public void OnClick(View view)
-            {
-                //string name = (string)view.Tag;
-                //string text = string.Format("{0} Button Click.", name);
-                //Toast.MakeText(this.activity, text, ToastLength.Short).Show();
-                Intent intent = new Intent(this.activity, typeof(NoteEditor));
-                this.activity.StartActivity(intent);
-            }
         }
     }
 }

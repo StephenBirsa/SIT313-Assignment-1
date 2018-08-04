@@ -31,6 +31,8 @@ namespace Week2
             }
             TextView textView1 = FindViewById<TextView>(Resource.Id.textView1);
             textView1.Text = prefs.GetString("Titles_" + size, "Notes " + size);
+            EditText editText1 = FindViewById<EditText>(Resource.Id.editText1);
+            editText1.Text = prefs.GetString("Notes_" + size, "Add Text Here...");
             Button button1 = FindViewById<Button>(Resource.Id.button1);
             button1.Click += delegate
             {
@@ -40,10 +42,10 @@ namespace Week2
             Button button2 = FindViewById<Button>(Resource.Id.button2);
             button2.Click += delegate
             {
-                SaveData(textView1);
+                SaveData(textView1, editText1);
             };
         }
-        private void SaveData(TextView textView1)
+        private void SaveData(TextView textView1, EditText editText1)
         {
             ISharedPreferences prefs = GetSharedPreferences(MainActivity.NOTES_PREFERENCES, FileCreationMode.Private);
             ISharedPreferencesEditor editor = prefs.Edit();
@@ -51,6 +53,7 @@ namespace Week2
             if (prefs.GetInt("NotePosition", -1) == -1)
             {
                 editor.PutString("Titles_" + size, "Notes " + size);
+                editor.PutString("Notes_" + size, editText1.Text);
                 size = size + 1;
                 editor.PutInt("TitleSize", size);
             }
@@ -58,6 +61,7 @@ namespace Week2
             {
                 size = prefs.GetInt("NotePosition", 0);
                 editor.PutString("Titles_" + size, "Notes " + size);
+                editor.PutString("Notes_" + size, editText1.Text);
             }
             editor.Apply();
         }

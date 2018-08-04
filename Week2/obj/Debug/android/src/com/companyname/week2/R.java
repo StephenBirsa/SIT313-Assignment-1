@@ -2135,7 +2135,7 @@ containing a value of this type.
         public static final int bottom=0x7f0b002f;
         public static final int button1=0x7f0b0067;
         public static final int button2=0x7f0b0068;
-        public static final int button3=0x7f0b006b;
+        public static final int button3=0x7f0b0069;
         public static final int buttonPanel=0x7f0b003e;
         public static final int cancel_action=0x7f0b0070;
         public static final int checkbox=0x7f0b004e;
@@ -2147,7 +2147,7 @@ containing a value of this type.
         public static final int decor_content_parent=0x7f0b0055;
         public static final int default_activity_button=0x7f0b003b;
         public static final int disableHome=0x7f0b0012;
-        public static final int editText1=0x7f0b006a;
+        public static final int editText1=0x7f0b006b;
         public static final int edit_query=0x7f0b0059;
         public static final int end=0x7f0b0022;
         public static final int end_padder=0x7f0b007e;
@@ -2215,7 +2215,7 @@ containing a value of this type.
         public static final int text2=0x7f0b000d;
         public static final int textSpacerNoButtons=0x7f0b0045;
         public static final int textSpacerNoTitle=0x7f0b0044;
-        public static final int textView1=0x7f0b0069;
+        public static final int textView1=0x7f0b006a;
         public static final int time=0x7f0b0077;
         public static final int title=0x7f0b000e;
         public static final int titleDividerNoCustom=0x7f0b004c;
@@ -2321,17 +2321,16 @@ containing a value of this type.
         public static final int abc_shareactionprovider_share_with_application=0x7f06000f;
         public static final int abc_toolbar_collapse_description=0x7f060010;
         public static final int app_name=0x7f060020;
-        public static final int delete_editor=0x7f060026;
+        public static final int delete_notes=0x7f060025;
         public static final int hello=0x7f06001f;
-        public static final int leave_editor=0x7f060024;
+        public static final int leave_editor=0x7f060023;
         public static final int new_note=0x7f060021;
         public static final int notes_list=0x7f060022;
-        public static final int open_editor=0x7f060023;
-        public static final int save_editor=0x7f060025;
+        public static final int save_editor=0x7f060024;
         public static final int search_menu_title=0x7f060011;
         public static final int status_bar_notification_info_overflow=0x7f06001e;
-        public static final int text_editor=0x7f060028;
-        public static final int title_editor=0x7f060027;
+        public static final int text_editor=0x7f060027;
+        public static final int title_editor=0x7f060026;
     }
     public static final class style {
         public static final int AlertDialog_AppCompat=0x7f080095;

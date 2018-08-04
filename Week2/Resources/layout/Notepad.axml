@@ -32,12 +32,5 @@
             android:layout_toEndOf="@+id/button1"
             android:layout_width="wrap_content"
             android:text="@string/save_editor" />
-        <Button
-            android:id="@+id/button3"
-            android:layout_alignParentBottom="true"
-            android:layout_height="wrap_content"
-            android:layout_toEndOf="@+id/button2"
-            android:layout_width="wrap_content"
-            android:text="@string/delete_editor" />
     </RelativeLayout>
 </RelativeLayout>

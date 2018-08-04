@@ -31,6 +31,14 @@ namespace Week2
                 Intent intent = new Intent(this, typeof(NoteEditor));
                 this.StartActivity(intent);
             };
+            Button button3 = FindViewById<Button>(Resource.Id.button3);
+            button3.Click += delegate
+            {
+                ISharedPreferences prefs = GetSharedPreferences(NOTES_PREFERENCES, FileCreationMode.Private);
+                ISharedPreferencesEditor editor = prefs.Edit();
+                editor.Clear();
+                editor.Apply();
+            };
         }
     }
 }

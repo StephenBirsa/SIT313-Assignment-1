@@ -4,10 +4,9 @@
     <string name="app_name">Assignment 1 Notepad App</string>
     <string name="new_note">New Note</string>
     <string name="notes_list">Notes List</string>
-    <string name="open_editor">Open Editor</string>
     <string name="leave_editor">Go Back</string>
     <string name="save_editor">Save Text</string>
-    <string name="delete_editor">Delete</string>
+    <string name="delete_notes">Delete Notes</string>
     <string name="title_editor">Default Title</string>
     <string name="text_editor">Lorem ipsum dolor sit amet, consectetur adipiscing elit
     Maecenas ut suscipit justo. Morbi sit amet tellus eu mi vehicula tincidunt ut elementum odio.
